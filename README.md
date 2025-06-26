@@ -1,7 +1,5 @@
 # Mobile-Analysis<u> <Br>
 
-✅ **Note**: First, I used **SQL** to answer all the business questions. Then, for **data visualization**, I created an interactive dashboard using **Power BI**.
-
 &#9752;</span> Business Question - <Br>
 1.  Check mobile features and price list <Br>
 2. Find out the price of 5 most expensive phones<Br>
